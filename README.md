@@ -15,3 +15,10 @@ Features of Django
 4> Form handling 
 
 5> Unit Testing 
+
+ Django  is not:
+ 
+ 1> Programing a language 
+ 
+ 2> A webserver 
+ 
