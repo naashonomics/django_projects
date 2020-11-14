@@ -22,3 +22,4 @@ Features of Django
  
  2> A webserver 
  
+conda create --name pydjango python=3.8.2 
